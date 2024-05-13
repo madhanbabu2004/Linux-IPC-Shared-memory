@@ -123,6 +123,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 ## OUTPUT
 ![output](./a.png)
+![output](./b.png)
 
 # RESULT:
 The program is executed successfully.
